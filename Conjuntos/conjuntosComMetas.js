@@ -8,4 +8,8 @@ console.log(texto.match(/[$-?]/g)) // isso é um intervalo (range)
 console.log(texto.match(/[$\-?]/g))
 console.log(texto.match(/[-?]/g))
 
+
+// $-? -> o traço no meio é um intervalo
+//-? -> o traço nas laterais ou sozinho não é um intervalo
+
 // pode precisar de escape dentro do conjunto: - [ ] ^
