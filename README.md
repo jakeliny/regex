@@ -24,7 +24,7 @@ Caracteres
 - Acentos
 
 Conjuntos
-- Consjunto
+- Conjunto
 - Intervalos
 - Conjuntos com meta
 - Atalhos
