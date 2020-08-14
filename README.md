@@ -1,5 +1,5 @@
 # Regex
-Metodo formal de especificar caracteres particulares, palavras ou padrões de caracteres.
+Metodo formal de especificar caracteres particulares, palavras ou padrões de caracteres. Servem para fazer buscas, substituições, validações, filtragens, etc..
 
 ### Tabela Unicode
 [https://unicode-table.com/pt/](https://unicode-table.com/pt/)
