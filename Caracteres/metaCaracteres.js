@@ -1,5 +1,5 @@
-// . - um caractere qualquer
-//[] - conjunto de caracteres permitidos
+// . - coringa, pega qualquer caractere
+// [] - conjunto de caracteres permitidos
 // [^] - conjunto de caracteres proibidos
 
 
@@ -19,9 +19,7 @@
 // \1...\9 - Retrovisor
 
 
- 
-// . ? * + - ^ $ | [ ] { } ( ) \ :
-const texto = '1,2,3,4,5,6,a.b c!d?e'
+ const texto = '1,2,3,4,5,6,a.b c!d?e'
 
 //para pegar o ponto literal
 const regexPonto = /\./g

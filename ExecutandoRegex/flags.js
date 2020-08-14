@@ -1,8 +1,8 @@
 //Flags
-// i - Ignora case
+// i - ignora maisculas e minusculas
 // g - pega todas as ocorrencias, sem ela so encontra a primeira e para
 
-const text = "Carlos assinou o abaixo assinado"
+const text = "Carlos assinou o abaixo assinado com caneta"
 
 console.log(text.match(/C|ab/))
 
