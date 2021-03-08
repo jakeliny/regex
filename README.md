@@ -4,7 +4,7 @@ Metodo formal de especificar caracteres particulares, palavras ou padrões de ca
 ### Exemplo de regex
 `/(http:\/\/)?(www\.)?\w+\.\w{2,}(\.\w{2})?/g`
 
-É como mágica, quando você descobre como faz, fica ate sem graça
+É como mágica, quando você descobre como faz, fica até sem graça
 
 ### Plugin do VS Code 
 Esse plugin do vs code ajuda no momento de executar regex em qualquer linguagem
