@@ -7,5 +7,5 @@ console.log(texto2.match(/(http:\/\/)?(www\.)?\w+\.\w{2,}(\.\w{2})?/g))
 //http:// - opcional
 //www.  - opcional
 //conjunto de palavras com um ou mais caracteres
-// . literal seguido de 2 ou mais caracteres comtendo letras
-//ultimo grupo opicional, exemplo o gupy não tem, um shorthand de dois digitos opcionais
+// . literal seguido de 2 ou mais caracteres contendo letras
+//ultimo grupo opcional, exemplo o gupy não tem, um shorthand de dois dígitos opcionais

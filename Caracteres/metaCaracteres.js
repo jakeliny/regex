@@ -9,11 +9,11 @@
 // {n, m} - de n até m 
 
 
-// ^ - inicio da linha 
+// ^ - início da linha 
 // $ - fim da linha
-// \b - inicio ou fim de palavra 
+// \b - início ou fim de palavra 
 
-// \ - espace para entrada de literal
+// \ - escape para entrada de literal
 // () - grupo
 // | - ou
 // \1...\9 - Retrovisor
