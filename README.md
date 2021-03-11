@@ -1,5 +1,5 @@
 # Regex
-Metodo formal de especificar caracteres particulares, palavras ou padrões de caracteres. Servem para fazer buscas, substituições, validações, filtragens, etc..
+Método formal de especificar caracteres particulares, palavras ou padrões de caracteres. Servem para fazer buscas, substituições, validações, filtragens, etc..
 
 ### Exemplo de regex
 `/(http:\/\/)?(www\.)?\w+\.\w{2,}(\.\w{2})?/g`
@@ -42,7 +42,7 @@ Grupos
 - Grupos
 - Retrovisores
 
-ps: os tópicos acima se refem aos nomes dos arquivos
+ps: os tópicos acima se referem aos nomes dos arquivos
 
 
 ### Tabela Unicode
