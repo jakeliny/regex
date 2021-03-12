@@ -6,6 +6,6 @@ console.log(regexNumber.exec(text)); //executa e mostrar o que encontrou incluin
 
 const regexLetter = /[a-f]/g
 console.log(text.match(regexLetter)) //se deu match com a expressão
-console.log(text.search(regexLetter)) //procurar e responder com o indice do primeiro que deu match
-console.log(text.replace(regexLetter, 'BU')) //substitui as ocorrencias por BU
+console.log(text.search(regexLetter)) //procurar e responder com o índice do primeiro que deu match
+console.log(text.replace(regexLetter, 'BU')) //substitui as ocorrências por BU
 console.log(text.split(regexLetter)) //separar em um array

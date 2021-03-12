@@ -1,6 +1,6 @@
 //Flags
-// i - ignora maisculas e minusculas
-// g - pega todas as ocorrencias, sem ela so encontra a primeira e para
+// i - ignora maiúsculas e minúsculas
+// g - pega todas as ocorrências, sem ela so encontra a primeira e para
 
 const text = "Carlos assinou o abaixo assinado com caneta"
 
