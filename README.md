@@ -1,53 +1,53 @@
 # Regex
-Método formal de especificar caracteres particulares, palavras ou padrões de caracteres. Servem para fazer buscas, substituições, validações, filtragens, etc..
+Formal method of specifying particular characters, words or character standards. Made for searching, replacements, validations, filtering, etc..
 
-### Exemplo de regex
+### Regex example
 `/(http:\/\/)?(www\.)?\w+\.\w{2,}(\.\w{2})?/g`
 
-É como mágica, quando você descobre como faz, fica até sem graça
+It's like magic, when you find out how to do it, it's even embarrassing
 
-### Plugin do VS Code 
-Esse plugin do vs code ajuda no momento de executar regex em qualquer linguagem
+### VS Code Plugin
+This vs code plugin helps executing regex in any language
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-### Sugestão de ordem para aprendizado
-Executando Regex
+### Order suggestion for learning
+Executing Regex
 - JS functions
 - Flags
 
-Caracteres
-- Meta caracteres
-- Texto literal
-- Ponto
-- Espaços
+Characters
+- Meta characters
+- Literal text
+- Dot
+- Spaces
 - Pipe
-- Acentos
+- Accents
 
-Conjuntos
-- Conjunto
-- Intervalos
-- Conjuntos com meta
-- Atalhos
-- Negados
+Joints
+- Joint
+- Intervals
+- Joints with goals
+- Shortcuts
+- Negated
 
-Quantificadores
-- Quantificadores
-- Opcional (Zero ou um)
-- Um ou mais
-- Zero ou mais
-- Chaves
-- Guloso
+Quantifiers
+- Quantifiers
+- Optional (Zero or one)
+- One or more
+- Zero or more
+- Braces
+- Greedy
 
-Grupos
-- Grupos
-- Retrovisores
+Groups
+- Groups
+- Rearview mirrors
 
-ps: os tópicos acima se referem aos nomes dos arquivos
+ps: the previous topics refer to file names
 
 
-### Tabela Unicode
+### Unicode Table
 [https://unicode-table.com/pt/](https://unicode-table.com/pt/)
 
-### Dicas de livros 
-- [Expressões Regulares: Uma Abordagem Divertida](https://www.amazon.com.br/Express%C3%B5es-Regulares-Uma-Abordagem-Divertida/dp/8575224743/)
-- [Receitas de expressões regulares](https://www.amazon.com.br/Express%C3%B5es-Regulares-Cookbook-Jan-Goyvaerts/dp/8575222791/)
+### Book Recommendations
+- [Regular Expressions: A Fun Approach](https://www.amazon.com.br/Express%C3%B5es-Regulares-Uma-Abordagem-Divertida/dp/8575224743/)
+- [Regular Expression Recipes](https://www.amazon.com.br/Express%C3%B5es-Regulares-Cookbook-Jan-Goyvaerts/dp/8575222791/)
